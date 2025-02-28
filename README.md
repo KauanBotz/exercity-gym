@@ -13,11 +13,6 @@ O **EXERCITY** é uma plataforma para academias que visa otimizar o tempo dos us
 - ⏰ Notificação de tempo restante
 - 🏋️ Personais disponíveis no dia e em cada horário
 
-### **📊 Dashboard**
-- 📈 Gráfico de horário
-- 🔍 Análise do fluxo (picos)
-- 📆 Dados dos últimos 7 dias (a cada 3 horas)
-
 ### **💰 Planos para as academias**
 - 🏷️ Mensal
 - 🏷️ Semestral
@@ -29,6 +24,11 @@ Disponível para **usuários** e **administradores** da academia.
 #### **👤 Usuário (App)**
 - 🔑 Login e registro
 - 📌 Agendamento de treino
+  
+### **📊 Dashboard**
+- 📈 Gráfico de horário
+- 🔍 Análise do fluxo (picos)
+- 📆 Dados dos últimos 7 dias (a cada 3 horas)
 
 #### **🛠️ Administrador (App)**
 - 👥 Controle de usuários ativos
