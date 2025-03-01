@@ -43,5 +43,4 @@ Disponível para **usuários** e **administradores** da academia.
 - 🏋️ Personalização de treino
 
 ---
-
-Desenvolvido para aprimorar a experiência dos frequentadores de academias e otimizar a gestão administrativa. 🚀🔥
+Projeto desenvolvido em grupo, Centro Universitario Una - Modelagem de Software. 🚀🔥
