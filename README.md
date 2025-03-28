@@ -2,6 +2,15 @@
 
 O **EXERCITY** é uma plataforma para academias que visa otimizar o tempo dos usuários e melhorar a gestão de fluxo. 📊💪
 
+## 📋 Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](./caso-de-uso.png)
+
+## 👥 Atores do Sistema
+- **Gerente**: Responsável pela administração completa do sistema
+- **Recepcionista**: Gerencia o fluxo diário e cadastros básicos
+- **Usuário**: Cliente da academia
+- **Personal**: Profissional que oferece treinamento personalizado
+
 ## 🚀 Funcionalidades Essenciais
 
 ### **🔹 Geral**
@@ -24,17 +33,33 @@ Disponível para **usuários** e **administradores** da academia.
 #### **👤 Usuário (App)**
 - 🔑 Login e registro
 - 📌 Agendamento de treino
-  
+- 💰 Realizar pagamento de mensalidade
+- 👀 Visualizar personais disponíveis
+- 📊 Acompanhar dashboard de horários e fluxo
+
+#### **👨‍💼 Gerente**
+- 👥 Gerenciar usuários (Ativar/Desativar/Editar)
+- 🏋️‍♀️ Cadastrar personais
+- 📝 Cadastrar usuários
+- 💲 Gerenciar planos (Mensal, Semestral, Anual) e seus valores
+- 💳 Cadastrar pagamento de mensalidades
+- 📈 Monitorar fluxo de pessoas e horários
+
+#### **🧑‍💼 Recepcionista**
+- 📝 Cadastrar usuários
+- 💳 Cadastrar pagamento de mensalidades
+- 📈 Monitorar fluxo de pessoas e horários
+
+#### **🏋️‍♂️ Personal**
+- 📈 Monitorar fluxo de pessoas e horários
+- 👀 Visualizar outros personais disponíveis (para encaminhamento)
+- 📊 Acompanhar dashboard de horários e fluxo
+- ✅ Agendar treino (Check-in)
+
 ### **📊 Dashboard**
 - 📈 Gráfico de horário
 - 🔍 Análise do fluxo (picos)
 - 📆 Dados dos últimos 7 dias (a cada 3 horas)
-
-#### **🛠️ Administrador (App)**
-- 👥 Controle de usuários ativos
-- 📋 Controle de usuários
-- 💳 Gestão de planos
-- 📊 Dashboard e detalhes de uso e picos de usuários
 
 ## 🎖️ Funcionalidades Não Essenciais
 - 🎮 Sistema de gamificação (recompensa por frequência alta)
@@ -42,5 +67,24 @@ Disponível para **usuários** e **administradores** da academia.
 - 📞 Suporte direto com administradores de cada academia
 - 🏋️ Personalização de treino
 
+## 🔧 Tecnologias Utilizadas
+- Backend: [tecnologia]
+- Frontend: [tecnologia]
+- Banco de Dados: [tecnologia]
+
+## ⚙️ Como Executar
+1. Clone o repositório
+2. Configure o ambiente conforme instruções
+3. Execute o sistema
+
+## 👨‍💻 Equipe de Desenvolvimento
+- [Nome do Desenvolvedor 1]
+- [Nome do Desenvolvedor 2]
+- [Nome do Desenvolvedor 3]
+
+## 📌 Status do Projeto
+Em desenvolvimento
+
 ---
+
 Projeto desenvolvido em grupo, Centro Universitario Una - Modelagem de Software. 🚀🔥
