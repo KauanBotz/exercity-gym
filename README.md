@@ -54,7 +54,6 @@ Disponível para **usuários** e **administradores** da academia.
 - 📈 Monitorar fluxo de pessoas e horários
 - 👀 Visualizar outros personais disponíveis (para encaminhamento)
 - 📊 Acompanhar dashboard de horários e fluxo
-- ✅ Agendar treino (Check-in)
 
 ### **📊 Dashboard**
 - 📈 Gráfico de horário
