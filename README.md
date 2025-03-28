@@ -67,21 +67,6 @@ Disponível para **usuários** e **administradores** da academia.
 - 📞 Suporte direto com administradores de cada academia
 - 🏋️ Personalização de treino
 
-## 🔧 Tecnologias Utilizadas
-- Backend: [tecnologia]
-- Frontend: [tecnologia]
-- Banco de Dados: [tecnologia]
-
-## ⚙️ Como Executar
-1. Clone o repositório
-2. Configure o ambiente conforme instruções
-3. Execute o sistema
-
-## 👨‍💻 Equipe de Desenvolvimento
-- [Nome do Desenvolvedor 1]
-- [Nome do Desenvolvedor 2]
-- [Nome do Desenvolvedor 3]
-
 ## 📌 Status do Projeto
 Em desenvolvimento
 
