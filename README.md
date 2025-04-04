@@ -1,6 +1,6 @@
 # 🏋️‍♂️ EXERCITY
 
-O **EXERCITY** é uma plataforma para academias que visa otimizar o tempo dos usuários e melhorar a gestão de fluxo. 📊💪
+O **EXERCITY** é uma plataforma fornecida para auxiliar as academias e os usuários visando a otimização de tempo, melhoria na gestão de fluxos e na administração dos proprietários. 📊💪
 
 ## 📋 Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso](./caso-de-uso.png)
