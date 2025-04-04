@@ -68,8 +68,14 @@ Disponível para usuários e administradores da academia.
 - Suporte direto com administradores da academia  
 - Personalização de treino
 
-## 🚧 Status do Projeto
-Em desenvolvimento
+## 🚧 Integrantes
+- Brendo Santos de Oliveira
+- Camila Geovana da Silva
+- Kauan Gabriel Rodrigues da Silva
+- Maria Julia Werner R. Fernandes
+- Raissa da Graça Rodrigues Santos
+- Thales Miguel Mota Pimenta
+
 
 ---
 
