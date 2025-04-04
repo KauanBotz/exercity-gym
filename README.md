@@ -5,8 +5,8 @@ O **EXERCITY** é uma plataforma para academias que visa otimizar o tempo dos us
 ## 📋 Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso](./caso-de-uso.png)
 
-## 📋 Diagrama de Atividade
-![Diagrama de atividade](./diagrama-de-atividade.png)
+## 📋 Diagrama de Atividades
+![Diagrama de atividades](./diagrama-de-atividades.png.png)
 
 ## 👥 Atores do Sistema
 - **Gerente**: Responsável pela administração completa do sistema
